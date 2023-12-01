@@ -3,7 +3,7 @@
 ## Code
 The Code folder contains the source code of DomEye detector and its counterparts.
 
-Execution order：features.py ─▶ train.py ─▶ test_tpr.py ─▶ test_fpr.py ─▶ test_overhead.py
+Execution order：features.py ─> train.py ─> test_tpr.py ─> test_fpr.py ─> test_overhead.py
 
 The features.py file is used to calculate the statistical features used by each detector.
 
