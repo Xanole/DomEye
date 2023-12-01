@@ -15,6 +15,8 @@ The test_fpr.py file is used to test the false alarm performance of each detecto
 
 The test_overhead.py file is used to test the performance overhead of each detector.
 
+:warning: The code is intended for RESEARCH PURPOSES ONLY!
+
 
 ## Dataset
 The Dataset folder contains all the traffic data used in the experiments, for training and testing DomEye detector and its peers.
